@@ -1,6 +1,8 @@
 # Unity miniGame-Guess the Cups
  一个基于Unity制作的猜杯子小游戏，图片素材来自源于网络上。
  
+ 项目所使用的Unity版本为 2019.4.32f1c1
+ 
  整个成果是通过学习Youtube视频制作者的视频得到的，这是他的主页https://www.youtube.com/c/%E7%8B%82%E6%88%8E 
  
 ![image](https://user-images.githubusercontent.com/59006834/183242586-79631cbc-8be3-4fac-9d04-a0e95fd79502.png)
