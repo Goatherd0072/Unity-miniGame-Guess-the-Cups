@@ -16,5 +16,6 @@
 ![image](https://user-images.githubusercontent.com/59006834/183242595-0c1047e5-f057-486d-a58d-8fafa2a8697f.png)
 
 
-难度调整
+难度调整通过跳调整CupManager的变量来实现
+
 ![image](https://user-images.githubusercontent.com/59006834/183242618-14cdc75e-83bd-4411-bfbb-1f4dd0cd6aa4.png)
